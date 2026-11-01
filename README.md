@@ -18,6 +18,8 @@ This repository contains educational code, notebooks, and demonstrations on **Qu
 
 By replacing classical convolutional filters with random or variational quantum circuits, we transform input image patches into quantum states, execute entanglement and rotation operations, and measure expectation values to generate transformed feature maps for downstream classification.
 
+Link: <https://colab.research.google.com/github/DLSU-Quantum-Special-Interest-Group/QML-CNN-demo/blob/main/qml_cnn_playground.ipynb>
+
 ---
 
 ## 🚀 Features
